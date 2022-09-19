@@ -1,4 +1,5 @@
 C:\Users\mindc1july21\Desktop\Kubernetes\Comprehensive\src\main\java\com\doctor\main\exception\CustomException.java
+C:\Users\mindc1july21\Desktop\Kubernetes\Comprehensive\src\main\java\com\doctor\main\exception\WrongId.java
 C:\Users\mindc1july21\Desktop\Kubernetes\Comprehensive\src\main\java\com\doctor\main\service\DescSalary.java
 C:\Users\mindc1july21\Desktop\Kubernetes\Comprehensive\src\main\java\com\doctor\main\control\Controller.java
 C:\Users\mindc1july21\Desktop\Kubernetes\Comprehensive\src\main\java\com\doctor\main\ComprehensiveApplication.java
@@ -7,6 +8,5 @@ C:\Users\mindc1july21\Desktop\Kubernetes\Comprehensive\src\main\java\com\doctor\
 C:\Users\mindc1july21\Desktop\Kubernetes\Comprehensive\src\main\java\com\doctor\main\docinterface\DocAccSalary.java
 C:\Users\mindc1july21\Desktop\Kubernetes\Comprehensive\src\main\java\com\doctor\main\service\Service.java
 C:\Users\mindc1july21\Desktop\Kubernetes\Comprehensive\src\main\java\com\doctor\main\model\Model.java
-C:\Users\mindc1july21\Desktop\Kubernetes\Comprehensive\src\main\java\com\doctor\main\docinterface\DocDisplay.java
 C:\Users\mindc1july21\Desktop\Kubernetes\Comprehensive\src\main\java\com\doctor\main\exception\EmptyData.java
 C:\Users\mindc1july21\Desktop\Kubernetes\Comprehensive\src\main\java\com\doctor\main\repos\DoctorRepos.java
