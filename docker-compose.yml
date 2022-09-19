@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  springboot:
+    build: .
+    image: hospitalmangement:1.0
+    ports:
+      - 80:80
+      
+  
+  
+ 
