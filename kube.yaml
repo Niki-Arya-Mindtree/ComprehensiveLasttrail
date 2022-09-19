@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: we-dep
+  name: bew
   labels:
     app: bew
 spec:
@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: bew
-        image: nikiarya/hospitalmanagement:1.0
+        image: nikiarya/newcomp:1.2
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 80
@@ -28,7 +28,7 @@ kind: Service
 metadata:
   name: we-serv
 spec:
-  type: LoadBalancer
+  type: NodePort
   selector:
     app: bew
   ports:

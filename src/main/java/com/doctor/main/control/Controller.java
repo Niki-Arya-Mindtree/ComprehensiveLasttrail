@@ -29,9 +29,7 @@ public class Controller {
 			return new ResponseEntity<>(serv.getAll() ,HttpStatus.FOUND);
 		} catch (EmptyData e) {
 			throw new EmptyData(e.getMsg());
-		} catch (Exception e) {
-			throw new Exception(e.getMessage());
-		}
+		} 
 			
 	}
 	
